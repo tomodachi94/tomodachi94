@@ -1,5 +1,7 @@
 :wave: Hey there! I'm a programming hobbyist who likes Python, Lua, and Nix and wants to learn Rust.
 
+**Nix people: want to ask me questions about the 2025 Steering Committee election? [Join this room.](https://matrix.to/#/%23tomodachi94-sc-2025:matrix.org) Want to see my responses to the candidate form? [Here it is.](https://gist.github.com/tomodachi94/185a7d3a86691ec382e85d21bbaeb13f).**
+
 ## What do you do in open-source?
 
 - I maintain the [`awesome-computercraft`](https://github.com/tomodachi94/awesome-computercraft) list.
